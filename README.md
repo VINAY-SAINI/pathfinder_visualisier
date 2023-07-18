@@ -17,3 +17,7 @@ This application supports the following algorithms:
 **Breath-first Search** (unweighted): a great algorithm; guarantees the shortest path
 
 **Depth-first Search** (unweighted): a very bad algorithm for pathfinding; does not guarantee the shortest path
+![dragging](https://github.com/VINAY-SAINI/pathfinder_visualisier/assets/65601865/d2e7894a-a595-4575-b716-19990497d513)
+![wallsandweights](https://github.com/VINAY-SAINI/pathfinder_visualisier/assets/65601865/769de454-b434-418c-8ecd-6777685a8e1d)
+![bomb](https://github.com/VINAY-SAINI/pathfinder_visualisier/assets/65601865/1de1d064-b4a7-42d7-b775-6954338f75b6)
+![algorithms](https://github.com/VINAY-SAINI/pathfinder_visualisier/assets/65601865/49a6d24a-c8dc-4463-9294-cfa8b0ab2134)
